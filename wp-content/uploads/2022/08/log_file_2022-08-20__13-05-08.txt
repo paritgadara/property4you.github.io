@@ -1,0 +1,121 @@
+
+---Downloaded files---
+The import files for: Houzez01 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/ppt
+Data file = D:\Wordpress\htdocs\ppt/wp-content/uploads/2022/08/demo-content-import-file_2022-08-20__13-05-08.xml
+Widget file = D:\Wordpress\htdocs\ppt/wp-content/uploads/2022/08/demo-widgets-import-file_2022-08-20__13-05-08.json
+Customizer file = not defined!
+Redux files:
+houzez_options -> D:\Wordpress\htdocs\ppt/wp-content/uploads/2022/08/demo-redux-import-file_0-2022-08-20__13-05-08.json 
+
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Property Listings : 
+
+HOUZEZ: Featured Properties - Featured Listings - Imported
+HOUZEZ: Property Taxonomies - Property Type - Imported
+HOUZEZ: Property Taxonomies - Cities - Imported
+
+Search Sidebar : 
+
+HOUZEZ: Property Taxonomies - Popular Cities - Imported
+HOUZEZ: Featured Properties - Featured - Imported
+
+Page Sidebar : 
+
+HOUZEZ: Featured Properties - Featured - Imported
+HOUZEZ: Property Taxonomies - Discover - Imported
+HOUZEZ: Latest Posts - Latest Posts - Imported
+
+Agency Sidebar : 
+
+HOUZEZ: Agency Search - Find Agency - Imported
+HOUZEZ: Featured Properties - Featured - Imported
+
+Agent Sidebar : 
+
+HOUZEZ: Agent Search - Find Agent - Imported
+HOUZEZ: Recent View Properties - Recent Viewed  - Imported
+
+Footer Area 1 : 
+
+HOUZEZ: Property Taxonomies - Discover - Imported
+
+Footer Area 2 : 
+
+HOUZEZ: Contact Us - Contact Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: houzez_options finished successfully!
+
+---ocdi/after_import---
+
